@@ -5,6 +5,8 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas
 
 
+
+
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
