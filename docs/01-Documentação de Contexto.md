@@ -1,13 +1,17 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+As ofertas de frutas, verduras e legumes em feiras e sacolões pelo Brasil estão sujeitas a sazonalidade, mudanças climáticas, inflação e até condições internacionais (como uma guerra, por exemplo), levando a um aumento no preço desses produtos em determinadas épocas do ano por motivos naturais ou até mesmo de forma inesperada. 
+
+Em pesquisa divulgada em 2012 pela Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), percebeu-se que os mais pobres gastam até 80% do seu salário em alimentos, o que os deixa vulnerável a qualquer mudança nos preços ou de seus salários. Nos países em desenvolvimento, como o Brasil, o consumo diário de vegetais é apenas 20% a 50% do recomendado pela ONU e OMS. (FAO, 2021)
+
+A Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional divulgou em dezembro de 2021 dados alarmantes: No Brasil, 55% da população – aproximadamente 116 milhões de pessoas – vive com algum grau de insegurança alimentar. 
+
+Diante disso, é importante que as pessoas ampliem seu conhecimento sobre os vegetais (frutas, verduras e legumes) que naturalmente estão mais disponíveis nas regiões em que elas vivem, para que dessa forma elas fiquem menos vulneráveis às ações do mercado que, de forma esperada ou não, impactam o preço dos alimentos, podendo assim optarem por consumirem vegetais mais baratos. 
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Falta de acesso à informação de forma rápida sobre a sazonalidade dos alimentos produzidos no país para poder ampliar o conhecimento sobre os alimentos mais baratos e nutritivos de um determinado período do ano. 
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,26 +20,28 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de um site que apresente ferramentas 
+de fácil uso e que permita o acesso a um universo variado de informações sobre alimentos sazonais. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, podemos ressaltar: 
+
+•	Informar os alimentos sazonais por regiões do Brasil;
+•	Disponibilizar conteúdos sobre escolha, conservação, preparação e receitas para cada alimentos;
+•	Fornecer funcionalidades que permitam favoritar as receitas para consulta posterior. 
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+No livro Planejamento de Cardápios Econômicos, Rafael Cunha Ferro aponta que alguns dos benefícios em se adotar a sazonalidade como estratégia alimentar são a economia doméstica, devido ao acesso a produtos com maior disponibilidade no mercado, melhoria da saúde a partir da redução no consumo de alimentos com agrotóxicos e aumento no consumo de alimentos com maior valor nutricional. 
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Embora todas as pessoas possam se beneficiar do site, o público-alvo principal é: Adultos até os 59 anos, com acesso à internet.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
