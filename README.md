@@ -1,25 +1,25 @@
-# TÍTULO DO PROJETO
+# PORTAL SOBRE INFORMAÇÕES DE ALIMENTOS BASEADO NA SAZONALIDADE
 
-`CURSO`
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+1º semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desensolvimento de um portal sobre informações de alimentos baseado na sazonalidade. Ou seja, qual o melhor alimento comprar levando em consideração a safra dos alimentos. O portal contará também com informações nutricionais, dicas de conservação, receitas e substituições possíveis de determinados alimentos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Amanda Ramires Guimarães Brito
+* Daniel Jonatan Silva dos Santos
+* Leidirene Rodrigues da Silva Marques
+* Maria Eduarda Pinheiro
+* Mirian Santos de Oliveira
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Sandra Maria Rilveira
 
 ## Instruções de utilização
 
